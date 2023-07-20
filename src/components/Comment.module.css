@@ -73,8 +73,7 @@
 @media (max-width: 768px){
     .comment{
         flex-direction: column;
-        align-items: flex-start;
-       
+        align-items: flex-start; 
     }
     .commentBox{
         width: 100%;
